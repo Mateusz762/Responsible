@@ -164,6 +164,7 @@ header {
 .signup{
   padding: 5px 12px;
   margin-bottom: 10px;
+  background: linear-gradient(45deg, #00d5fc,#046af6);
   border-radius: 50px;
   text-align: right;
   margin-left: 4px;
